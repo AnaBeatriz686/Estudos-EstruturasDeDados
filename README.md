@@ -4,3 +4,4 @@
 * [📂 Pilhas](https://github.com/AnaBeatriz686/Estudos-EstruturasDeDados/tree/main/src/Pilhas)
 * [📂 Listas](https://github.com/AnaBeatriz686/Estudos-EstruturasDeDados/tree/main/src/Listas)
 * [📂 Algoritmos de Ordenação (Sorts)](https://github.com/AnaBeatriz686/Estudos-EstruturasDeDados/tree/main/src/Sorts)
+* [📂 Generics](https://github.com/AnaBeatriz686/Estudos-EstruturasDeDados/tree/main/src/Generics)
